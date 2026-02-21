@@ -1,56 +1,51 @@
 # Raveesh Agarwal
 
-Engineer. Systems thinker. Commerce infrastructure.
+Engineer.
 
-Currently building the future of global commerce in an AI-native world.
+Building commerce infrastructure for an AI-native world.
 
 ---
 
 ## Focus
 
-Designing systems that scale:
-- Across millions of sessions
-- Across hundreds of distributed app variants
-- Across global commerce constraints
-- Across human and AI workflows
+Systems that scale:
+- Millions of sessions
+- Distributed app fleets
+- Global commerce constraints
+- Human + AI workflows
 
 ---
 
-## Background
+## Depth
 
-**Frontend (Deep)**
-- Extreme Dart / Flutter expertise
-- Certified Mobile Web Specialist
-- Architecture at scale: state, caching, modularization, distribution
-- BFF-level system design understanding
-- Patent: US012316707B1 (latency-optimized BFF architecture)
+**Frontend**
+- Dart / Flutter
+- Mobile Web Specialist
+- Large-scale state & caching systems
+- Modular distribution architectures
+- BFF systems
+- US012316707B1
 
-**Backend (Rising Depth)**
+**Backend**
 - Go
 - connectRPC
-- Service boundaries & distributed systems
-- AI-first workflow orchestration
+- Service boundaries
+- AI-first orchestration
 
 ---
 
-## Engineering Philosophy
+## Philosophy
 
-- Great engineering moves complexity out of the user space and into the system space.
-- Eliminate classes of problems.
-- Reliability is revenue protection.
-- Distribution is architecture.
-- Performance is perception.
-- The right abstraction compounds.
+Great engineering moves complexity  
+out of the user space  
+into the system space.
+
+Eliminate classes of problems.  
+Reliability protects revenue.  
+Abstractions compound.
 
 ---
 
-## Commerce
+## Direction
 
-Deep operating context in:
-- Payments
-- White-label ecosystems
-- App store distribution at scale
-- SMB enablement
-
-Ambition:
-Build accessible, intelligent commerce infrastructure for SMBs worldwide.
+Accessible, intelligent commerce infrastructure for SMBs worldwide.
