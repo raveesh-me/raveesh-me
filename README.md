@@ -161,11 +161,6 @@ Leading two organizations at once: six years building the mobile organization to
 
 <div align="center">
 
-<!-- GitHub stats — replace username; delete this block if you prefer a quieter profile -->
-<img src="https://github-readme-stats.vercel.app/api?username=raveesh-me&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveesh-me&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="160"/>
-
-<br/><br/>
 
 *Systems worth building are the ones still running when you've moved on.*
 
