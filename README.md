@@ -3,7 +3,7 @@
 <!-- Animated typing header -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1200&center=true&vCenter=true&width=720&lines=Raveesh+Agarwal;Commerce+infrastructure+for+an+AI-native+world;Go+%C2%B7+ConnectRPC+%C2%B7+Kubernetes+%C2%B7+MCP" alt="Raveesh Agarwal" />
 
-**Director of Engineering, Commerce · [HighLevel](https://www.gohighlevel.com)**
+**Director of Engineering, Mobile and Commerce · [HighLevel](https://www.gohighlevel.com)**
 
 *Building the systems that let millions of small businesses sell, invoice, and get paid.*
 
