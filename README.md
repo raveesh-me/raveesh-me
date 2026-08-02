@@ -9,8 +9,8 @@
 
 <br/>
 
-[![Blog](https://img.shields.io/badge/Blog-Writing%20on%20cloud--native%20%26%20APIs-1a1a2e?style=for-the-badge&logo=hashnode&logoColor=white)](https://your-blog-url.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
+[![Blog](https://img.shields.io/badge/Blog-Writing%20on%20cloud--native%20%26%20APIs-1a1a2e?style=for-the-badge&logo=hashnode&logoColor=white)](https://raveeshagarwal.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raveeshagarwal)
 [![Patent](https://img.shields.io/badge/US%20Patent-12%2C316%2C707%20B1-2d6a4f?style=for-the-badge&logo=googlescholar&logoColor=white)](https://patents.google.com/patent/US12316707B1)
 
 </div>
