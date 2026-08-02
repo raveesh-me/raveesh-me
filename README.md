@@ -5,7 +5,7 @@
 
 **Director of Engineering, Mobile and Commerce · [HighLevel](https://www.gohighlevel.com)**
 
-*Building the systems that let millions of small businesses sell, invoice, and get paid.*
+*Building the systems that let millions of small businesses sell, fulfill, invoice, and get paid.*
 
 <br/>
 
